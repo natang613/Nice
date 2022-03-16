@@ -1,0 +1,11 @@
+2. Other options:
+  1.
+  We could keep a list and remember all the numbers that are used if we randomly receive a number that was used we can request the number again until we get all of the numbers.
+  This is not smart as randomly we do not know of all of the potential options. 
+  2.
+    
+ 3. 
+  Time complexity for this option is O(n).
+  Space Complexity is O(n)
+  
+  
